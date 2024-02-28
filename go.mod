@@ -15,3 +15,5 @@ require (
 	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0
 	gopkg.in/yaml.v2 v2.2.8
 )
+
+replace github.com/urfave/cli/v2 => gopkg.in/urfave/cli.v2 v2.27.1
